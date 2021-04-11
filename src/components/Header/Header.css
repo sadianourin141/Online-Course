@@ -1,0 +1,61 @@
+.header img{
+    height:400px;
+
+}
+.header{
+    text-align: center;
+    background-color: lightsteelblue;
+}
+.header nav{
+    background-color:salmon;
+    line-height: 40px;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    color:white;
+    margin-right: 20px;
+    padding: 5px;
+
+}
+nav input{
+    color:black;
+    margin-right: 20px;
+    padding: 5px;
+    border-radius: 8px;
+    border:rgb(212, 97, 97);
+    width: 400px;
+    height:25px;
+    margin-bottom: 4px;
+}
+nav button{
+    margin-right: 10px;
+    padding: 5px;
+    
+  
+
+}
+.login-btn{
+    width:70px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+.signin-btn{
+    width:70px;
+    height: 30px;
+    color:black;
+    border: none;
+    border-radius: 4px;
+}
+nav a:hover{
+    background-color: rgb(212, 97, 97);
+}
+nav .login-btn:hover{
+    cursor: pointer;
+}
+nav .signin-btn:hover{
+    cursor: pointer;
+}

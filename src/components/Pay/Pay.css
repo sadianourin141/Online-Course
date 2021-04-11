@@ -1,0 +1,29 @@
+.pay{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding-bottom: 5px;
+    
+}
+.img img{
+    height: 300px;
+    width: 300px;
+    margin-right: 15px;
+}
+h2{
+    color: rgb(29, 109, 158);
+}
+h3{
+    color: salmon;
+}
+.enroll-btn{
+    font-weight: 600;
+    padding: 10px;
+    background-color: blue;
+    color:white;
+    font-size: medium;
+    border:none;
+    border-radius: 6px;
+    cursor: pointer;
+}
